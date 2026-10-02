@@ -9,6 +9,9 @@ sw-project-template/
 ├─ FOLDER_TREE.md
 ├─ .gitignore
 ├─ .env.example
+├─ scripts/
+│  ├─ create-project.ps1
+│  └─ create-project.sh
 ├─ .github/
 │  ├─ PULL_REQUEST_TEMPLATE.md
 │  └─ ISSUE_TEMPLATE/
